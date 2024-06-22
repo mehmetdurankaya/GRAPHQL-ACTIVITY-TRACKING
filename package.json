@@ -2,7 +2,8 @@
   "dependencies": {
     "apollo-server": "^3.13.0",
     "apollo-server-core": "^3.13.0",
-    "graphql": "^16.8.2"
+    "graphql": "^16.8.2",
+    "nanoid": "^3.0.0"
   },
   "name": "graphql-activity-tracking",
   "version": "1.0.0",
